@@ -3,6 +3,7 @@
     align-items: center;
     font-family: "Arial", sans-serif;
     color: #3e497a;
+    margin-left: 20px;
   }
   
   .about {
@@ -15,6 +16,15 @@
     text-align: center;
     background-color: #21325e;
     color: #f0f0f0;
+    margin-left: 20px;
+  }
+  .content {
+    
+    margin-left: 20px;
+  }
+
+  .title {
+    margin-left: 20px;
   }
   
   .aboutMe h2 {
@@ -22,6 +32,7 @@
     font-size: 80px;
     color: #e9d35b;
     height: 50px;
+    margin-left: 20px;
   }
   
   
@@ -69,4 +80,14 @@
     .skills h2 {
       font-size: 30px;
     }
+  }
+
+  .profile-pic {
+    width: 150px; /* Adjust the width as needed */
+    height: 150px; /* Adjust the height as needed */
+    border-radius: 20%; /* Makes the image a circle */
+    object-fit: cover; /* Ensures the image covers the entire area without distortion */
+    margin-bottom: 20px; /* Adds some space below the image */
+    margin-left: 20px;
+    margin-top: 20px;
   }

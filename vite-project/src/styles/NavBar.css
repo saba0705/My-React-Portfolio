@@ -80,3 +80,18 @@
 
     }
 }
+ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 70px;
+}
+
+.logo {
+    margin-left: 20px;
+    
+    font-weight: bold;
+    color: white;
+    text-decoration: solid;
+}

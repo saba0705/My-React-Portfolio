@@ -26,3 +26,8 @@
     font-size: 60px;
     color: #3e497a;
   }
+  .repolink {
+    text-decoration: none;
+    color: #3e497a;
+    margin-top: 20px;
+  }

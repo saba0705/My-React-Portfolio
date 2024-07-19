@@ -1,0 +1,48 @@
+[
+    {
+      "name": "Project 1",
+      "description": "HTML/JS/CSS",
+      "link": "https://jobeans24.github.io/Reviews/",
+      "repo": "https://github.com/jobeans24/Reviews",
+      "image": "bookclubImg"
+    },
+    {
+      "name": "Project 2",
+      "description": "NRG Stack",
+      "link": "https://code-hunt.onrender.com",
+      "repo": "https://github.com/PrestonNguyen2001/Code-Hunt",
+      "image": "codehuntImg"
+    },
+    {
+      "name": "Project 3",
+      "description": "NRG Stack",
+      "link": "https://saba0705.github.io/Weather-Dashboard-Challenge/",
+      "repo": "https://github.com/saba0705/Weather-Dashboard-Challenge",
+      "image": "weatherdashboardImg"
+    },
+     
+    {
+      "name": "Project 4",
+      "description": "NRG Stack",
+      "link": "https://saba0705.github.io/Task-Board-Project/",
+      "repo": "https://github.com/saba0705/Task-Board-Project",
+      "image": "taskboardImg"
+    },
+    
+    {
+      "name": "Project 5",
+      "description": "NRG Stack",
+      "link": " https://text-editor-pwa-challenge.onrender.com",
+      "repo": "https://github.com/saba0705/Text-Editor-PWA-Challenge",
+      "image": "JATEImg"
+    },
+
+    {
+      "name": "Project 6",
+      "description": "NRG Stack",
+      "link": "https://mvc-tech-blog-v77l.onrender.com",
+      "repo": "https://github.com/saba0705/MVC-Tech-blog-",
+      "image": "MVCtechblogImg"
+    }
+
+  ]

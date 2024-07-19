@@ -1,17 +1,24 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import * as projects from '../assets';
 
 
-function ProjectItem ({ id, name, image }) {
-  const navigate = useNavigate();
+function ProjectItem ({ project }) {
+  const { name, image, link, repo, description  } = project;
+ 
   
   return (
     <div 
       className="projectItem"
-      onClick={() => navigate("/project/" + id)}
+
+
+      
     >
-      <div style={{ backgroundImage: `url(${image})` }} className="bgImage"></div>
+      <a href = {link} target="_blank"><div style={{ backgroundImage:`url(${projects[image]})` }} className="bgImage"></div></a>
+
       <h3>{name}</h3>
+      <p>{description}</p>
+      <div className='repolinks'><a href = {repo}>GitHub Repo</a>
+    </div>
     </div>
   );
 };
