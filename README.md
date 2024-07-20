@@ -73,3 +73,5 @@ Copyright (c) Saba Pervez. All rights reserved.
 Licensed under the MIT license.
 
 # ![alt text](image.png)
+
+Netlify deployed link : https://669b28b89171a6f7e637a735--neon-rabanadas-44c85b.netlify.app
