@@ -8,7 +8,8 @@ function AboutMe()  {
     <div>
       <div className="about-me">
          <img src= {myprofileImg} alt="myprofileImg" className="profile-pic" /> 
-        <div className= "title"></div><h2>About Me</h2>
+        <div className= "title"><h2>About Me</h2>
+        </div>
         <section className="content">
         <p>
         Hi, I'm Saba, a dedicated and versatile Full Stack Developer with a passion for crafting robust and scalable web applications. With a strong foundation in both front-end and back-end technologies, I excel in creating seamless user experiences and efficient server-side solutions. My expertise spans HTML, CSS, JavaScript, React, Node.js, Express, and MongoDB, allowing me to build end-to-end solutions that meet the highest standards of performance and reliability.

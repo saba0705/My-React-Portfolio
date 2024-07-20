@@ -29,7 +29,7 @@ const Resume = () => {
       <div className="skills">
         <div className="skills-section">
           <h3>Front-End</h3>
-          <p>React, HTML, CSS, Bootstrap, Material-UI</p>
+          <p>React, HTML, CSS, Bootstrap, JavaScript</p>
         </div>
         <div className="skills-section">
           <h3>Back-End</h3>

@@ -1,23 +1,27 @@
 # My-React-Portfolio
-Table of Contents
 
-Description
-Challenge Elements
-Installation Guide
-Usage
-Contributing
-License
+## Table of Contents
 
-Description
+- [Description](#description)
+- [Challenge Elements](#challenge-elements)
+- [Installation Guide](#installation-guide)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Description
+
 A portfolio, using my React skills to help set apart from other developers whose portfolios don’t use the latest technologies.
 
-Challenge Element 
-User Story
+## Challenge Elements
+
+# User Story
 
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
-Acceptance Criteria
+
+# Acceptance Criteria
 
 GIVEN a single-page application portfolio for a web developer
 WHEN I load the portfolio
@@ -43,19 +47,29 @@ THEN I receive a notification if I have entered an invalid email address
 WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
+THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 
-Installation
+## Installation Guide
 
-- use npm install in your terminal to download dependencies.
-- use npm run dev to start the server.
+- Use `npm install` in your terminal to download dependencies.
+- Use `npm run dev` to start the server.
 
-Usage 
+## Usage
+
 - Application must use React to render content.
-Application has a single Header component that appears on multiple pages, with a Navigation component within it that uses react-router-dom to render About Me, Portfolio, Contact, and Resume sections.
-Application has a single Project component that’s used multiple times in the Portfolio section.
-Application has a single Footer component that appears on multiple pages.
-Application must be deployed to Netlify.
+- Application has a single Header component that appears on multiple pages, with a Navigation component within it that uses `react-router-dom` to render About Me, Portfolio, Contact, and Resume sections.
+- Application has a single Project component that’s used multiple times in the Portfolio section.
+- Application has a single Footer component that appears on multiple pages.
+- Application must be deployed to Netlify.
 
+## Contributing
 
+We'd love for you to contribute! In order to do so, fork this repository. Your pull request will need approval in order to merge to main.
 
+## License
+
+Copyright (c) Saba Pervez. All rights reserved.
+
+Licensed under the MIT license.
+
+# ![alt text](image.png)
